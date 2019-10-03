@@ -2,4 +2,7 @@
 
 __author__ = 'winny-'
 
-print('hello world')
+name = input('Who are you? ')
+
+# The bug is on the next line :)
+print('hello ', name

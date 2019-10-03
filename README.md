@@ -18,3 +18,12 @@ How to complete
 10. Push to gitHub `git push origin master`
 
 Good luck!!
+
+How to run Python
+-----------------
+
+1. Visit https://repl.it/
+2. Click "new repl" at the top right corner
+3. Select Python
+4. Paste your code into the `main.py` text area
+5. Click "Run" at the top middle
